@@ -1,3 +1,9 @@
+**PARSED:**  
+
+    - total: 8152 
+    - with rating: 4933
+    - with error: 3219
+
 Simple example of usage http://www.omdbapi.com
 
 Must provide api_key as first argument to script `python3 app.py {YOR_API_KEY}`
